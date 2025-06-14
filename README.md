@@ -37,12 +37,3 @@ A sleek, interactive calendar web application inspired by Google Calendar, built
     "time": "23:59",
     "duration": "All Day"
   }
-]
-## 1.Clone the repository
-git clone https://github.com/yourusername/calendar-app.git
-cd calendar-app
-
-## 2.Install dependencies
-npm install
-3. Start the development server
-npm run dev
